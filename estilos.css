@@ -1,0 +1,16 @@
+
+header{ background-image: url("img/banner.jpg"); background-size: cover; margin-bottom: -30px;}
+header img{ display: block; margin: auto;}
+
+div {background-color: silver;}
+h1 {background-color:black; color: #fcd116; text-align: center; padding:7px}
+h2 {background-color: black; color: #fcd116; text-align: center; padding: 7px}
+ul {  font-size: 15px; font-style: normal; font-family:Arial, Helvetica, sans-serif}
+
+pre{ font-size: 15px; font-style: normal; font-family:Arial, Helvetica, sans-serif;}
+
+footer{background-color: #005677; text-align:center}
+
+
+
+
